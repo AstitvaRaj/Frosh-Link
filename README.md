@@ -1,12 +1,17 @@
 Screenshots:
 
 1) Homescreen:
-		![screenshots](screenshots/homescreen.jpg)
+
+<img src="screenshots/homescreen.jpg" width="250" title="Homescreen">
 		
 2) Searching:
-		![screenshots](screenshots/searching.jpg)
-		![screenshots](screenshots/searching1.jpg)
+<p align=left">
+<img src="screenshots/searching.jpg" width="250" title="hover text">  
+<img src="screenshots/searching1.jpg" width="250" title="hover text">
+</p>
 		
 3) Description:
-		![screenshots](screenshots/description1.jpg)
-		![screenshots](screenshots/description2.jpg)
+<p align=left">
+<img src="screenshots/description1.jpg" width="250" title="hover text">
+<img src="screenshots/description2.jpg" width="250" title="hover text">
+</p>		
